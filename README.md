@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michal-Delikat
-- 👀 I’m interested in AI, Machine Learning, Software Development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking for a job as a React Developer.
 - 📫 How to reach me - michal.delikat0@gmail.com
