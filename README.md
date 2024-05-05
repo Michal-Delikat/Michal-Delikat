@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Michal-Delikat
-- 👀 I’m interested in Software Development, Machine Learning & Data Science.
-- 🌱 I’m currently learning Python for Data Science & Machine Learning.
-- 💞️ I’m looking for a job as a Junior Machine Learning Engineer.
+- 👀 I’m interested in Machine Learning & Software Development.
+- 💞️ I’m open to positions of Machine Learning Engineer.
 - 📫 How to reach me - michal.delikat0@gmail.com
 
 <!---
