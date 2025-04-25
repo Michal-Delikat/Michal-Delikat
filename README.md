@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Michal-Delikat
-- 👀 I’m interested in Machine Learning & Software Development.
-- 💞️ I’m open to positions of Machine Learning Engineer.
+- 👀 I’m interested in Web & Software Development.
 - 📫 How to reach me - michal.delikat0@gmail.com
 
 <!---
